@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # G9-hotel_booking_system
 
 The Hotel Booking Management System is a comprehensive solution designed to manage hotel operations efficiently. It automates core hotel processes, including room bookings, inventory management, customer check-ins/check-outs, billing, and staff management. By centralizing these operations, the system ensures smooth communication and coordination between different departments, enhancing the overall guest experience.
@@ -66,5 +65,4 @@ The **Hotel Booking Management System** connects these entities through well-def
     * Customers interact with receptionists for room bookings and payments.
     * Inventory items support the daily operations of the hotel.
 =======
-# G9-hotel_booking_system
->>>>>>> origin/main
+
