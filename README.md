@@ -13,6 +13,7 @@ The system revolves around six primary entities, each with specific roles and at
         Purchase and maintain inventory.
         Record and address customer complaints.
 
+
 2. Inventory
 
     * Role: Represents hotel resources like supplies and amenities.
@@ -38,7 +39,7 @@ The system revolves around six primary entities, each with specific roles and at
         Room No: The room assigned to the customer.
     * Responsibilities:
         Check-in and check-out process.
-        Pay bills for their stay.
+        Pay bills for their stay
 
 5. Receptionist
 
